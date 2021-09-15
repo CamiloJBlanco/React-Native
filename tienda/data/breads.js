@@ -47,4 +47,4 @@ export const BREADS = [
       weight: '900gr',
       price: 2000,
     }
-  ];
+  ]; 
